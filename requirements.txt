@@ -1,0 +1,7 @@
+numpy==1.15.3
+visdom==0.1.8.5
+torch==0.4.1
+pytorch_ignite==0.1.0
+ConfigArgParse==0.13.0
+ignite==1.1.0
+torchvision==0.2.1
